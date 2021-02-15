@@ -1,6 +1,6 @@
 const readline = require('readline-sync');
 
-console.log('Welcome to Calculator!');
+console.log('Welcome to Tylers Calculator!');
 
 // Ask the user for the first number.
 console.log('Whats the first number?');
